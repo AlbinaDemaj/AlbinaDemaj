@@ -33,5 +33,5 @@
 
 ## 📫 Contact
 
-📧 albina@example.com  
+📧 demajalbina3@gmail.com
 🌐 Portfolio: [Coming Soon](#)

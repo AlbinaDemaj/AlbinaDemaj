@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Albina Demaj!
 
-<!--
-**AlbinaDemaj/AlbinaDemaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science graduate & passionate Full Stack Web Developer  
+💡 I love building interactive, responsive, and clean web applications  
+🌱 Currently working on: Skincare E-commerce & Job Portal System  
+📍 Tech stack: HTML, CSS, Tailwind, JavaScript, React, PHP, MySQL, Laravel
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills
+
+**Frontend**  
+- HTML, CSS, Tailwind CSS, Bootstrap  
+- JavaScript, React.js  
+
+**Backend**  
+- PHP, Laravel, MySQL  
+
+**Tools**  
+- Git, GitHub, VS Code, Figma, Canva
+
+---
+
+## 🚀 Projects (coming soon...)
+
+- 💄 Skincare E-commerce  
+- 🎬 Movie App with React  
+- ☕ Coffee Shop Web App  
+- 🏨 Hotel Management (PHP)  
+- 🏥 Hospital Management (Laravel)
+
+---
+
+## 📫 Contact
+
+📧 albina@example.com  
+🌐 Portfolio: [Coming Soon](#)

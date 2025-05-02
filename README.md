@@ -29,6 +29,7 @@
 ### 🔹 HTML + Tailwind CSS
 - 🏠 **CozyHouse** – Real estate website layout  
 - 🍽️ **Restaur** – Restaurant website design
+- 🏨 **RioRelax** – Hotel website design
 
 ### 🔹 HTML + Tailwind + JavaScript
 - 🛒 **Mixtas Store** – Responsive product store UI with interactivity

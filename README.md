@@ -1,57 +1,68 @@
 # 👋 Hi, I'm Albina Demaj!
 
-🎓 I'm a **Computer Science graduate** & passionate **Full Stack Web Developer**  
-💡 I specialize in building **modern, clean and responsive websites** using the latest technologies  
-🚀 Currently working on: **Job Portal System with Laravel** & **Skincare E-commerce**  
-📍 **Tech stack**: HTML, CSS, Tailwind, JavaScript, React, PHP, MySQL, Laravel
+🎓 I'm a **Computer Science graduate** and a passionate **Full Stack Web Developer**  
+🚀 Founder of [**Webline Studio**](https://weblinestudio.site) – Building modern websites for ambitious brands  
+💡 I specialize in crafting **responsive, SEO-optimized, and user-friendly websites**  
+🛠️ Currently working on: **Job Portal System with Laravel** & **Skincare E-commerce platform**  
+
+📍 **Tech Stack**:  
+HTML • CSS • Tailwind CSS • JavaScript • React • PHP • Laravel • MySQL
 
 ---
 
 ## 💼 Skills
 
-### Frontend  
+### 🚧 Frontend  
 - HTML, CSS, Tailwind CSS, Bootstrap  
 - JavaScript, jQuery, React.js  
 
-### Backend  
+### 🧩 Backend  
 - PHP, MySQL, Laravel  
 
-### Tools & Design  
-- Git, GitHub, VS Code, Figma, Canva  
+### 🛠️ Tools & Design  
+- Git & GitHub  
+- VS Code  
+- Figma, Canva  
 
 ---
 
-## 🧪 My Projects
+## 🌟 Featured Projects
 
 ### 🔹 HTML + CSS  
-💆‍♀️ **DERMACARE** – A simple beauty/skincare website design  
+💆‍♀️ **DERMACARE** – A beauty/skincare landing page  
 
 ### 🔹 HTML + Tailwind CSS  
-🏠 **CozyHouse** – Real estate website layout  
-🍽️ **Restaur** – Restaurant website design  
-🏨 **RioRelax** – Hotel website design  
+🏠 **CozyHouse** – Real estate layout  
+🍽️ **Restaur** – Restaurant site  
+🏨 **RioRelax** – Hotel presentation site  
 
-### 🔹 HTML + Bootstrap + JavaScript + jQuery  
-🍲 **TastyBite** – Recipe discovery website with animated UI and interactive features  
+### 🔹 Bootstrap + JavaScript + jQuery  
+🍲 **TastyBite** – Recipe app with animations and interactive UI  
 
-### 🔹 HTML + Tailwind + JavaScript  
-🛒 **Mixtas Store** – Responsive product store UI with interactivity  
+### 🔹 Tailwind + JavaScript  
+🛍️ **Mixtas Store** – Stylish e-commerce front-end  
 
 ### 🔹 React.js  
-☕ **Coffee Shop** – React web app for a modern café  
-✨ **Glowly** – Skincare React project with animated UI  
+☕ **Coffee Shop** – Modern coffee shop website  
+✨ **Glowly** – Animated skincare brand site  
 
 ### 🔹 PHP + MySQL  
-🏨 **Hotel Management System** – Complete system for managing hotel bookings and rooms  
+🏨 **Hotel Management System** – Full-featured hotel platform  
 
 ### 🔹 Laravel  
-💼 **Job Portal System** – Platform for posting, searching and applying to jobs  
+💼 **Job Portal System** – Multi-role job searching & posting platform  
 
 ---
 
-## 📫 Contact
+## 📬 Let's Connect!
 
-📧 Email: demajalbina3@gmail.com  
-🌐 Portfolio: Coming Soon  
-💼 LinkedIn: [albina-demaj-881293300](https://www.linkedin.com/in/albina-demaj-881293300)
+📧 **Email**: demajalbina3@gmail.com  
+🌐 **Website**: [www.weblinestudio.site](https://weblinestudio.site)  
+💼 **LinkedIn**: [albina-demaj-881293300](https://www.linkedin.com/in/albina-demaj-881293300)  
+📸 **Instagram**: [@webline.dev](https://www.instagram.com/webline.dev)  
+
+---
+
+_“Great websites are not just built, they're designed to perform and impress.”_
+
 

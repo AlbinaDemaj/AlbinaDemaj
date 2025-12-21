@@ -1,68 +1,108 @@
-# 👋 Hi, I'm Albina Demaj!
+# 👩‍💻 Albina Demaj — Full-Stack Web Developer
 
-🎓 I'm a **Computer Science graduate** and a passionate **Full Stack Web Developer**  
-🚀 Founder of [**Webline Studio**](https://weblinestudio.site) – Building modern websites for ambitious brands  
-💡 I specialize in crafting **responsive, SEO-optimized, and user-friendly websites**  
-🛠️ Currently working on: **Job Portal System with Laravel** & **Skincare E-commerce platform**  
+Welcome to my GitHub profile!  
+I’m **Albina Demaj**, a **Computer Science Master’s student** and **Full-Stack Web Developer** passionate about building modern, scalable, and user-centered web applications.
 
-📍 **Tech Stack**:  
-HTML • CSS • Tailwind CSS • JavaScript • React • PHP • Laravel • MySQL
+🌐 **Portfolio:** https://albinademaj.dev  
 
 ---
 
-## 💼 Skills
+## 🚀 About Me
 
-### 🚧 Frontend  
-- HTML, CSS, Tailwind CSS, Bootstrap  
-- JavaScript, jQuery, React.js  
+- 🎓 Master’s Student in **Computer Science**
+- 💻 Full-Stack Web Developer (Frontend & Backend)
+- 🌱 Focused on clean code, modern UI/UX, and real-world solutions
+- 🤝 Open to **Junior Developer roles**, **internships**, and **collaborations**
 
-### 🧩 Backend  
-- PHP, MySQL, Laravel  
-
-### 🛠️ Tools & Design  
-- Git & GitHub  
-- VS Code  
-- Figma, Canva  
+I enjoy transforming ideas into functional digital products by combining **strong technical foundations**, **creative design**, and **problem-solving skills**.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-### 🔹 HTML + CSS  
-💆‍♀️ **DERMACARE** – A beauty/skincare landing page  
+### Frontend
+- **React**
+- **JavaScript / TypeScript**
+- **HTML5 / CSS3**
+- **Tailwind CSS**
+- **Bootstrap**
 
-### 🔹 HTML + Tailwind CSS  
-🏠 **CozyHouse** – Real estate layout  
-🍽️ **Restaur** – Restaurant site  
-🏨 **RioRelax** – Hotel presentation site  
+### Backend
+- **PHP**
+- **Laravel**
+- **REST APIs**
 
-### 🔹 Bootstrap + JavaScript + jQuery  
-🍲 **TastyBite** – Recipe app with animations and interactive UI  
+### Database
+- **MySQL**
 
-### 🔹 Tailwind + JavaScript  
-🛍️ **Mixtas Store** – Stylish e-commerce front-end  
-
-### 🔹 React.js  
-☕ **Coffee Shop** – Modern coffee shop website  
-✨ **Glowly** – Animated skincare brand site  
-
-### 🔹 PHP + MySQL  
-🏨 **Hotel Management System** – Full-featured hotel platform  
-
-### 🔹 Laravel  
-💼 **Job Portal System** – Multi-role job searching & posting platform  
+### Tools & Platforms
+- **Git & GitHub**
+- **VS Code**
+- **Netlify**
+- **Figma**
+- **Postman**
 
 ---
 
-## 📬 Let's Connect!
+## 📂 Featured Projects
 
-📧 **Email**: demajalbina3@gmail.com  
-🌐 **Website**: [www.weblinestudio.site](https://weblinestudio.site)  
-💼 **LinkedIn**: [albina-demaj-881293300](https://www.linkedin.com/in/albina-demaj-881293300)  
-📸 **Instagram**: [@webline.dev](https://www.instagram.com/webline.dev)  
+### 🌸 FFlower Atelier  
+**E-commerce platform for a flower atelier**
+
+- Modern UI with Tailwind CSS  
+- Product listings & clean layout  
+- Responsive design for all devices  
+
+🔗 Project: Available in my GitHub repositories
 
 ---
 
-_“Great websites are not just built, they're designed to perform and impress.”_
+### 🌱 GrowCast  
+**Smart farming web application**
 
+- Weather-based crop insights  
+- Farmer-friendly interface  
+- React frontend & Laravel backend  
 
+🔗 Project: Available in my GitHub repositories
+
+---
+
+### 🌐 Personal Portfolio — albinademaj.dev
+**Professional developer portfolio**
+
+- Showcases projects & skills  
+- Clean, modern design  
+- Fully responsive  
+- Deployed on Netlify  
+
+🔗 https://albinademaj.dev
+
+---
+
+## ✨ What I Care About
+
+- ✔️ Clean & maintainable code  
+- ✔️ Performance & responsiveness  
+- ✔️ User experience (UX/UI)  
+- ✔️ Continuous learning & improvement  
+
+---
+
+## 📈 Currently Working On
+
+- Expanding my portfolio with real-world projects  
+- Improving backend & API skills  
+- Preparing for professional opportunities in web development  
+
+---
+
+## 📫 Contact Me
+
+- 🌐 Portfolio: https://albinademaj.dev  
+- 📧 Email: demajalbina3@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/albina-demaj-881293300 
+
+---
+
+⭐ If you like my work, feel free to explore my repositories and give a star!
